@@ -1,0 +1,39 @@
+CUENTA GMAIL
+Usuario: usuario1
+Contraseña: D4kP8z6L
+
+CUENTA AWS
+Usuario: usuario2
+Contraseña: G9mV3c2Y
+
+USER SQL SERVER
+Usuario: usuario3
+Contraseña: L7hQ5b8N
+
+SERVIDOR LINUX
+Usuario: usuario4
+Contraseña: J2vF9k1R
+
+SERVIDOR WINDOWS SERVER 2012
+Usuario: usuario5
+Contraseña: T6wX3b7P
+
+USER ORACLE
+Usuario: usuario6
+Contraseña: Z8rM4p2S
+
+LICENCIAS DE ANY DESK
+Usuario: usuario7
+Contraseña: B5kN1v9H
+
+CUENTA AZURE
+Usuario: usuario8
+Contraseña: C2mP7x4L
+
+CLAVE DE FACEBOOK
+Usuario: usuario9
+Contraseña: F3qR6z1W
+
+CLAVE DE INSTAGRAM
+Usuario: usuario10
+Contraseña: N9tV5b3D
